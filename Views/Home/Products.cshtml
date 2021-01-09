@@ -1,0 +1,47 @@
+@model List<Market.Models.Product>
+
+@{
+    ViewData["Title"] = "Products";
+    Layout = "_ClientLayout";
+}
+    <form class = "form-control form-control-lg" asp-controller="Home" method = "post" asp-action="Products">
+        <h5>Categoria
+        <select name="Id">
+          <option value="1">Todo</option>
+            <option value="2">Producto de Panaderia</option>
+            <option value="3">Confiteria</option>
+            <option value="4">Producto de Carne</option>
+            <option value="5">Producto Marinos</option>
+            <option value="6">Frutas y vegetales</option>
+            <option value="7">Productos lacteos</option>
+        </select>
+        <input type="submit" value="Ver">
+    </form></h5>
+<table class="table table-striped table-inverse">
+    <tr class="text-center">
+        <th colspan="5">Lista de productos</th>
+    </tr>
+    <tr>
+        <td>Id</td>
+        <td>Nombre</td>
+        <td>Costo</td>
+        <td>Categoria</td>
+        <td></td>
+    </tr>
+    @if(Model.Count > 0){
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.Cost</td>
+                <td>@item.CategoryId</td>
+                <td><a  href="~/Home/Trash/@item.Id"><input type="button" value="Comprar"></a></td>          
+            </tr>
+        }
+    }else{
+    <tr class="text-center">
+        <th colspan="5">Vacio</th>
+    </tr>        
+    }
+</table>

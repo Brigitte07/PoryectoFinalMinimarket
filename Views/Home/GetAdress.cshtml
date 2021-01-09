@@ -1,0 +1,40 @@
+@model Market.Models.Trash
+
+@{
+    ViewData["Title"] = "Buy";
+    Layout = "_ClientLayout";
+}
+
+<form method = "post" asp-route-Id="@ViewBag.TrashId" asp-action="GetAdress">
+
+<div class = "row">
+<div class = "col-md-10">
+    <label for="Adress">Direccion</label>
+</div>
+<div class = "col-md-10">
+    <input asp-for="Adress" type="text" >
+</div>
+</div>
+<div class = "row">
+<div class = "col-md-10">
+    <label for="DeliveryTime">Tiempo de entrega</label>
+</div>
+<div class = "col-md-10">
+    <input asp-for="DeliveryTime" type="text" >
+</div>
+</div>
+<div class = "row">
+<div class = "col-md-10">
+    <label for="PhoneNumber">Numero telefonico</label>
+</div>
+<div class = "col-md-10">
+    <input asp-for="PhoneNumber" type="text" >
+</div>
+</div>
+<div class = "row">
+<div class = "col-md-10">
+    <input type="submit" class=" btn btn-success" value="Siguiente">
+</div>
+</div>
+
+</form>

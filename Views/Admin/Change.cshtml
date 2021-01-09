@@ -1,0 +1,56 @@
+@model Market.Models.Product
+
+@{
+    ViewData["Title"] = "List";
+    Layout = "_AdminLayout";
+}
+
+<form method = "post" action="Change">
+    
+<div class = "row">
+<div class = "col-md-10">
+    <label for="Id">Id</label>
+</div>
+<div class = "col-md-10">
+    <input asp-for="Id" type="number" >
+</div>
+</div><br>
+   <div class = "row">
+<div class = "col-md-10">
+    <label for="Name">Nombre</label>
+</div>
+<div class = "col-md-10">
+    <input asp-for="Name" type="text" >
+</div>
+</div>
+<div class = "row">
+<div class = "col-md-10">
+    <label for="Cost">Costo</label>
+</div>
+<div class = "col-md-10">
+    <input asp-for="Cost" type="number" >
+</div>
+</div>
+<div class = "row">
+<div class = "col-md-10">
+    <label for="Category">Categoria</label>
+</div>
+<div class = "col-md-10">
+    <select class="form-control form-control-lg" name="CategoryId" data-val-required="The Category field is required" id="CategoryId" >
+      <option value="1">Todo</option>
+            <option value="2">Producto de Panaderia</option>
+            <option value="3">Confiteria</option>
+            <option value="4">Producto de Carne</option>
+            <option value="5">Producto Marinos</option>
+            <option value="6">Frutas y vegetales</option>
+            <option value="7">Productos lacteos</option>
+    </select>
+</div>
+</div><br>
+<div class = "row">
+<div class = "col-md-10">
+    <input type="submit" class=" btn btn-success" value="Cambiar">
+</div>
+</div>
+
+</form>

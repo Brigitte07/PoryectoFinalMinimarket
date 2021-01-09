@@ -1,0 +1,37 @@
+@model List<Market.Models.Trash>
+
+@{
+    ViewData["Title"] = "Trash";
+    Layout = "_ClientLayout";
+}
+
+<table class="table table-striped table-inverse">
+    <tr class="text-center">
+        <th colspan="6">Lista de Productos</th>
+    </tr>
+    <tr>
+        <td>Id</td>
+        <td>Nombre</td>
+        <td>Costo</td>
+        <td>Direccion</td>
+        <td>Tiempo</td>
+        <td>Numero de telefono</td>
+    </tr>
+    @if(Model.Count > 0){
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.ProductsName</td>
+                <td>@item.ProductsCost</td>
+                <td>@item.Adress</td>
+                <td>@item.DeliveryTime</td>   
+                <td>@item.PhoneNumber</td>     
+            </tr>
+        }
+    }else{
+    <tr class="text-center">
+        <th colspan="5">Vacio</th>
+    </tr>        
+    }
+</table>
