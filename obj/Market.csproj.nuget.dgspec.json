@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BRIGITTE\\Desktop\\Minimarket\\MiniMarket-master\\Market.csproj": {}
+    "C:\\Users\\BRIGITTE\\Desktop\\MinimarcketCeleste\\PoryectoFinalMinimarket\\Market.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BRIGITTE\\Desktop\\Minimarket\\MiniMarket-master\\Market.csproj": {
+    "C:\\Users\\BRIGITTE\\Desktop\\MinimarcketCeleste\\PoryectoFinalMinimarket\\Market.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BRIGITTE\\Desktop\\Minimarket\\MiniMarket-master\\Market.csproj",
+        "projectUniqueName": "C:\\Users\\BRIGITTE\\Desktop\\MinimarcketCeleste\\PoryectoFinalMinimarket\\Market.csproj",
         "projectName": "Market",
-        "projectPath": "C:\\Users\\BRIGITTE\\Desktop\\Minimarket\\MiniMarket-master\\Market.csproj",
+        "projectPath": "C:\\Users\\BRIGITTE\\Desktop\\MinimarcketCeleste\\PoryectoFinalMinimarket\\Market.csproj",
         "packagesPath": "C:\\Users\\BRIGITTE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BRIGITTE\\Desktop\\Minimarket\\MiniMarket-master\\obj\\",
+        "outputPath": "C:\\Users\\BRIGITTE\\Desktop\\MinimarcketCeleste\\PoryectoFinalMinimarket\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BRIGITTE\\AppData\\Roaming\\NuGet\\NuGet.Config"

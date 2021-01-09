@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\BRIGITTE\\Desktop\\Minimarket\\MiniMarket-master\\Market.csproj",
+  "FilePath": "c:\\Users\\BRIGITTE\\Desktop\\MinimarcketCeleste\\PoryectoFinalMinimarket\\Market.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14392,73 +14392,73 @@
   "RootNamespace": "Market",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\BRIGITTE\\Desktop\\Minimarket\\MiniMarket-master\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\BRIGITTE\\Desktop\\Minimarket\\MiniMarket-master\\Views\\Home\\Products.cshtml",
-      "TargetPath": "Views\\Home\\Products.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\BRIGITTE\\Desktop\\Minimarket\\MiniMarket-master\\Views\\Shared\\_ClientLayout.cshtml",
-      "TargetPath": "Views\\Shared\\_ClientLayout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\BRIGITTE\\Desktop\\Minimarket\\MiniMarket-master\\Views\\Admin\\Add.cshtml",
-      "TargetPath": "Views\\Admin\\Add.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\BRIGITTE\\Desktop\\Minimarket\\MiniMarket-master\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\BRIGITTE\\Desktop\\Minimarket\\MiniMarket-master\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\BRIGITTE\\Desktop\\Minimarket\\MiniMarket-master\\Views\\Admin\\Delete.cshtml",
-      "TargetPath": "Views\\Admin\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\BRIGITTE\\Desktop\\Minimarket\\MiniMarket-master\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\BRIGITTE\\Desktop\\Minimarket\\MiniMarket-master\\Views\\Admin\\Change.cshtml",
+      "FilePath": "c:\\Users\\BRIGITTE\\Desktop\\MinimarcketCeleste\\PoryectoFinalMinimarket\\Views\\Admin\\Change.cshtml",
       "TargetPath": "Views\\Admin\\Change.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\BRIGITTE\\Desktop\\Minimarket\\MiniMarket-master\\Views\\Home\\TrashView.cshtml",
-      "TargetPath": "Views\\Home\\TrashView.cshtml",
+      "FilePath": "c:\\Users\\BRIGITTE\\Desktop\\MinimarcketCeleste\\PoryectoFinalMinimarket\\Views\\Shared\\_AdminLayout.cshtml",
+      "TargetPath": "Views\\Shared\\_AdminLayout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\BRIGITTE\\Desktop\\Minimarket\\MiniMarket-master\\Views\\Home\\GetAdress.cshtml",
-      "TargetPath": "Views\\Home\\GetAdress.cshtml",
+      "FilePath": "c:\\Users\\BRIGITTE\\Desktop\\MinimarcketCeleste\\PoryectoFinalMinimarket\\Views\\Admin\\Add.cshtml",
+      "TargetPath": "Views\\Admin\\Add.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\BRIGITTE\\Desktop\\Minimarket\\MiniMarket-master\\Views\\Admin\\Categories.cshtml",
+      "FilePath": "c:\\Users\\BRIGITTE\\Desktop\\MinimarcketCeleste\\PoryectoFinalMinimarket\\Views\\Home\\Products.cshtml",
+      "TargetPath": "Views\\Home\\Products.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\BRIGITTE\\Desktop\\MinimarcketCeleste\\PoryectoFinalMinimarket\\Views\\Admin\\Categories.cshtml",
       "TargetPath": "Views\\Admin\\Categories.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\BRIGITTE\\Desktop\\Minimarket\\MiniMarket-master\\Views\\Shared\\Error.cshtml",
+      "FilePath": "c:\\Users\\BRIGITTE\\Desktop\\MinimarcketCeleste\\PoryectoFinalMinimarket\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\BRIGITTE\\Desktop\\MinimarcketCeleste\\PoryectoFinalMinimarket\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\BRIGITTE\\Desktop\\MinimarcketCeleste\\PoryectoFinalMinimarket\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\BRIGITTE\\Desktop\\MinimarcketCeleste\\PoryectoFinalMinimarket\\Views\\Admin\\Delete.cshtml",
+      "TargetPath": "Views\\Admin\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\BRIGITTE\\Desktop\\MinimarcketCeleste\\PoryectoFinalMinimarket\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\BRIGITTE\\Desktop\\MinimarcketCeleste\\PoryectoFinalMinimarket\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\BRIGITTE\\Desktop\\Minimarket\\MiniMarket-master\\Views\\Shared\\_AdminLayout.cshtml",
-      "TargetPath": "Views\\Shared\\_AdminLayout.cshtml",
+      "FilePath": "c:\\Users\\BRIGITTE\\Desktop\\MinimarcketCeleste\\PoryectoFinalMinimarket\\Views\\Home\\GetAdress.cshtml",
+      "TargetPath": "Views\\Home\\GetAdress.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\BRIGITTE\\Desktop\\MinimarcketCeleste\\PoryectoFinalMinimarket\\Views\\Shared\\_ClientLayout.cshtml",
+      "TargetPath": "Views\\Shared\\_ClientLayout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\BRIGITTE\\Desktop\\MinimarcketCeleste\\PoryectoFinalMinimarket\\Views\\Home\\TrashView.cshtml",
+      "TargetPath": "Views\\Home\\TrashView.cshtml",
       "FileKind": "mvc"
     }
   ],

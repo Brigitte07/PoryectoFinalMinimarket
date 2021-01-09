@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SfmZ5lMAGK+hCrwHsm/Qca7f658C6NrYBtAqzqt/hUUmgAJBmO55qiWtwj8YOmLWPA5F9VlLpiuBOAupgkms4A==",
+  "dgSpecHash": "b2jM1Dng2u3O1AOn51+3f5WzesQCGalQxV02Kvg1OP3tbfknFxVBkTqrKVBChjzLyHczukdji2eNwEVCSPNNcQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BRIGITTE\\Desktop\\Minimarket\\MiniMarket-master\\Market.csproj",
+  "projectFilePath": "C:\\Users\\BRIGITTE\\Desktop\\MinimarcketCeleste\\PoryectoFinalMinimarket\\Market.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BRIGITTE\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\BRIGITTE\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
